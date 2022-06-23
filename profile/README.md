@@ -1,7 +1,7 @@
 # BASF Mobile Solutions
 
 <p align="center">
-  <img src="./resources/basf_logo.png" />
+  <img src="./profile/resources/basf_logo.png" />
 </p>	
 
 <p align="center">
